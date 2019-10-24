@@ -3,3 +3,4 @@ pytest-cov
 pytest-django
 django
 django-crispy-forms
+codecov
