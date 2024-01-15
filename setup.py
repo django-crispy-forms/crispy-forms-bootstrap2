@@ -19,9 +19,9 @@ setup(
         "Framework :: Django :: 4.1",
     ],
     package_data={
-        'crispy_forms_bootstrap2': [
-            'templates/bootstrap/*',
-            'templates/bootstrap/layout/*',
+        "crispy_forms_bootstrap2": [
+            "templates/bootstrap/*",
+            "templates/bootstrap/layout/*",
         ],
     },
     include_package_data=True,
